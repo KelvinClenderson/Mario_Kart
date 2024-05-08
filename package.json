@@ -1,0 +1,12 @@
+{
+  "name": "mario_kart",
+  "version": "1.0.0",
+  "description": "Jogo desenvolvido com JavaScript e NodeJs, rodando apenas no backend, sem estrutura frontend desenvolvida.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kelvin Clenderson",
+  "license": "ISC"
+}
